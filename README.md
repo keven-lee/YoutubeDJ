@@ -32,6 +32,7 @@ Youtube DJ is an attempt to create a smoother and simplistic user experience as 
 * The ability to customize your own playlists on the go
 * Automatic playing of videos
 * Simple interface, with viewable history
+* NO ADS!!!
 
 ## Possible enhancements
 
